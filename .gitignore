@@ -10,3 +10,4 @@ BUILD/
 BUILDROOT/
 RPMS/
 SRPMS/
+*.versionsBackup
